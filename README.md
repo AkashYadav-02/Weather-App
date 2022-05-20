@@ -1,9 +1,10 @@
-# learn python frameworks by making weather app
-weather app using  python framework
+# weather app
+<b> <h1> using  python framework</h1><b>
 
 
 
-
+<b><h2>Home Page</h2></b> 
+![](weather-django/Home.png)
 ## Virtualenv & Dependencies
 ### create a virtualenv and run requirements.txt<br/>
 
@@ -25,9 +26,9 @@ env is name of environment
 - <b>run requirements.txt</b>
 <pre>$ pip install -r requirements.txt</pre>
 
-Note: each application contains its own requirements
+
 
 ---
 
 
-<strong>made by Akash Yadav  🍺</strong>
+<strong>made by Akash Yadav  </strong>
